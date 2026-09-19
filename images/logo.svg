@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+<title id="title">RapidRoach Exterminators logo</title>
+<desc id="desc">A stylized cockroach mark inside a lime green circle.</desc>
+<circle cx="80" cy="80" r="76" fill="#c8f36b"/>
+<g fill="none" stroke="#10251d" stroke-width="9" stroke-linecap="round">
+  <path d="M48 48 28 28M112 48l20-20M48 112l-20 20M112 112l20 20"/>
+  <path d="M43 66H23M43 83H18M117 66h20M117 83h25M52 101 35 116M108 101l17 15"/>
+</g>
+<ellipse cx="80" cy="87" rx="29" ry="42" fill="#10251d"/>
+<circle cx="80" cy="40" r="22" fill="#10251d"/>
+<path d="M80 22v106M57 72h46M55 91h50M60 110h40" stroke="#c8f36b" stroke-width="6" stroke-linecap="round"/>
+</svg>
