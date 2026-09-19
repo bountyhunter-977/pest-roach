@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-NETLIFY-SITE.netlify.app/sitemap.xml
+Sitemap: https://cockroachexterminators.netlify.app/sitemap.xml
